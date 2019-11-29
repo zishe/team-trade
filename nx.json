@@ -1,15 +1,15 @@
 {
-  "npmScope": "team-trade",
-  "implicitDependencies": {
-    "workspace.json": "*",
-    "package.json": "*",
-    "tsconfig.json": "*",
-    "tslint.json": "*",
-    "nx.json": "*"
-  },
-  "projects": {
-    "api": {
-      "tags": []
+    "npmScope": "team-trade",
+    "implicitDependencies": {
+        "workspace.json": "*",
+        "package.json": "*",
+        "tsconfig.json": "*",
+        "tslint.json": "*",
+        "nx.json": "*"
+    },
+    "projects": {
+        "api": {
+            "tags": []
+        }
     }
-  }
 }
